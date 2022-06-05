@@ -12,7 +12,7 @@ body {
 }
 
 section {
-    height: 860px;
+    height: 800px;
 }
 
 #home {
@@ -117,11 +117,63 @@ h1 {
     background-color: #19ff3c;
 }
 
-.contact-row {
-    align-items: center;
-    margin-bottom: 30px;
-    background: rgba(250, 250, 250, 0.25);
+#contact {}
+
+#con {
+    font-size: 30px;
+}
+
+#details {}
+
+#contact-row {
+    text-align: center;
+    background: rgba(8, 178, 235, 0.628);
     border-radius: 10px;
-    padding: 30px;
+    padding: 20px;
     font-weight: 700;
+    display: flex;
+    -webkit-box-align: center;
+    width: 30%;
+    font-size: 20px;
+}
+
+#contact-row:hover {
+    box-shadow: 0 8px 16px 0 rgba(180, 255, 68, 0.465);
+}
+
+#submit {}
+
+.sublab {
+    align-items: center;
+    text-align: center;
+    background: rgba(8, 178, 235, 0.628);
+    border-radius: 10px;
+    padding: 20px;
+    font-weight: 700;
+    display: flex;
+    -webkit-box-align: center;
+    width: 50%;
+    font-size: 25px;
+}
+
+.sublab:hover {
+    box-shadow: 0 8px 16px 0 rgba(180, 255, 68, 0.465);
+}
+
+#input {
+    margin-left: 20px;
+    height: 25px;
+    width: 50%;
+    background: none;
+}
+
+#input:hover {
+    background: local;
+}
+
+textarea {
+    margin-left: 20px;
+    height: 70px;
+    width: 50%;
+    background: none;
 }
