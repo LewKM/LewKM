@@ -106,11 +106,13 @@ h1 {
     color: #fff!important;
     background-color: #616161!important;
     width: 70%;
+    height: 16px;
     border-radius: 16px;
+    padding-right: auto;
 }
 
 .score {
     padding: 0.01em 16px;
-    color: #fff!important;
-    background-color: #607d8b!important;
+    color: rgb(0, 0, 0)!important;
+    background-color: #19ff3c!important;
 }
