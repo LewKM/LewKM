@@ -103,8 +103,8 @@ h1 {
 }
 
 .skillbar {
-    color: #fff!important;
-    background-color: #616161!important;
+    color: #fff;
+    background-color: #616161;
     width: 70%;
     height: 16px;
     border-radius: 16px;
@@ -113,6 +113,6 @@ h1 {
 
 .score {
     padding: 0.01em 16px;
-    color: rgb(0, 0, 0)!important;
-    background-color: #19ff3c!important;
+    color: rgb(0, 0, 0);
+    background-color: #19ff3c;
 }
