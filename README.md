@@ -1,148 +1,40 @@
-# Hi, I'm Lewis Mwendwa Kathembe 👋
+<h1 align="center">Hi 👋, I'm Lewis Mwendwa Kathembe</h1>
+<h3 align="center">A passionate Fullstack developer from Kenya</h3>
 
-📍 Kenya  
-📧 [lewiskathembe51@gmail.com](mailto:lewiskathembe51@gmail.com)  
-📱 +254 791432680  
-🔗 [LinkedIn](https://www.linkedin.com/in/lewis-mwendwa-3a2581244/)  
-🔗 [GitHub](https://github.com/LewKM)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lewkm&label=Profile%20views&color=0eb419&style=flat" alt="lewkm" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lewkm" alt="lewkm" /></a> </p>
 
-## Summary
+- 🔭 I’m currently working on **E-Commerce platform**
 
-I am an enthusiastic junior software engineer and developer with a keen interest in becoming a versatile full-stack developer, specializing in back-end design and implementation. My passion extends to networking, hardware, and the intriguing realm of the Internet of Things. Eager to expand my expertise, I actively seek opportunities for continual learning through courses, full-time roles, contracts, and temporary technical positions, fostering collaborations with industry peers. My internship experience has equipped me with the skills to adeptly navigate IT-related hurdles, positioning me to contribute significantly towards accomplishing the company's objectives. I am seeking a career opportunity that will not only refine my hardware technical skills but also enhance my software development acumen, enabling me to thrive amidst the evolving landscape of the technology sector.
+- 🌱 I’m currently learning **Flutter, Next.js and Pocketbase**
 
----
+- 👯 I’m looking to collaborate on **any open source and contract projects**
 
-## Skills
+- 👨‍💻 All of my projects are available at [https://github.com/LewKM](https://github.com/LewKM)
 
-### Programming Languages
+- 💬 Ask me about **React, Ruby on Rails, Django, PostgreSQL and MySQL**
 
-![Languages](<https://quickchart.io/chart?c={type:'pie',data:{labels:['HTML> & CSS','JavaScript (React)','Ruby on Rails','PHP','Python (Django)','SQL (MySQL, PostgreSQL, MSSQL, MongoDB)','Java'],datasets:[{data:[10,15,15,10,15,20,15]}]}})
+- 📫 How to reach me **lewiskathembe51@gmail.com or +254791432680**
 
-### Tools & Technologies
+- 📄 Know about my experiences [https://www.linkedin.com/in/lewis-mwendwa-3a2581244/](https://www.linkedin.com/in/lewis-mwendwa-3a2581244/)
 
-![Tools](<https://quickchart.io/chart?c={type:'pie',data:{labels:['Docker','AWS> Cloud','Azure DevOps','Agile Methodology','Project Management'],datasets:[{data:[20,20,20,20,20]}]}})
+- ⚡ Fun fact **I am always thinking of logic problems to solve.**
 
-### Other Skills
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/cob_spi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cob_spi" height="30" width="40" /></a>
+<a href="https://fb.com/lewis mwendwa kathembe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lewis mwendwa kathembe" height="30" width="40" /></a>
+<a href="https://instagram.com/sperizons_fx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sperizons_fx" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/lewkm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="lewkm" height="30" width="40" /></a>
+</p>
 
-![Other Skills](<https://quickchart.io/chart?c={type:'pie',data:{labels:['Software> Design and Development','Hardware and Software Maintenance and Troubleshooting','Unix/Linux and Windows Servers Administration','Network Security Administration'],datasets:[{data:[25,25,25,25]}]}})
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
----
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/LewKM"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LewKM" /></a><a href="https://ko-fi.com/LewKM"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="LewKM" /></a></p><br><br>
 
-## Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lewkm&show_icons=true&locale=en&layout=compact" alt="lewkm" /></p>
 
-### Student HelpDesk
-
-A simple combined journal that shows the use of CRUD operations using React and Ruby for development. The platform allows students to post their questions and answers, whereby other users can view their question posts and learn from their colleagues.
-![Student HelpDesk](path/to/image.png)
-
-### Thingira Cultural Village Portfolio
-
-This website serves as a comprehensive platform for our cultural village, offering a glimpse into our array of services and activities tailored for our valued visitors and guests.
-![Thingira Cultural Village Portfolio](path/to/image.png)
-
-### Better-Uni
-
-My final year project on campus. The project is a decision support system that makes the process of choosing university courses for the joining candidates easy. The project implements the MOORA algorithm to define the best course for the candidate based on the candidate score computed against the course unit weights.
-![Better-Uni](path/to/image.png)
-
-### Wild and Farms Tours
-
-A simple website that stands as a portfolio flier for a tour company. The website showcases the activities and services offered by the organization.
-![Wild and Farms Tours](path/to/image.png)
-
----
-
-## Experience
-
-### Junior Software Engineer & Web Developer (Freelancer)
-
-**March 2018 - Present**
-
-- Designing and developing both applications and system software.
-- Designing and developing websites and web application systems.
-- Upgrading of already existing systems from clients.
-
-### ICT Attachee
-
-**Jomo Kenyatta University of Agriculture and Technology (ICT-ISS dep’t)**  
-**Jan 2021 - April 2021 | Juja**
-
-- Installation and Configuration of the network switches and WIFI hotspots.
-- Layering and Termination of Fiber Optic and Ethernet cables.
-- Administration and monitoring of the network system.
-- Configuration of the network local servers.
-- Automation of some basic tasks on the network.
-- Offering Technical support where needed.
-
-### Polling Clerk
-
-**Independent Electoral and Boundaries Commission (IEBC)**  
-**Oct 2019 | Mutonguni Ward By-Elections, Kitui County IEBC**
-
-- Cross-checking the KIEMS system for confirmation of the person’s registration on the system.
-- Reporting any arising issues to the Polling Officer at the voting station.
-- Authenticating the voter in his/her polling station.
-- Ensuring the KEIMS device integrity is observed.
-
-### Enumerator
-
-**Kenya National Bureau of Statistics**  
-**Aug 2019 | Kenya Population and Housing Census 2019**
-
-- Collection of Household Members' data and information using the CAPI device.
-- Monitoring and evaluating implementation of the employer’s information system policy.
-- Uploading of the collected data to the KPHC servers.
-
-### Data Collection Agent
-
-**Safaricom PLC**  
-**Jul 2018 - Aug 2018 | Safaricom Home Fiber (Ruaka)**
-
-- Data-Collection from potential Home-Fiber customers for installation strategy.
-- Verification of the data across the teams to check for any errors.
-
----
-
-## Education
-
-### Jomo Kenyatta University of Agriculture and Technology
-
-**Bachelor of Science in Computer Technology**  
-**June 2022**  
-Second Class (Lower Division)
-
-### Certification
-
-- **Moringa School** | Software Development | April 2022 - November 2022
-- **Kena Institute of Technology and Hospitality** | Computer Basics | Mar 2016 - May 2016
-- **LinkedIn Learning** | Soft Skills | 2022
-
----
-
-## Attributes
-
-- Excellent team-player and leader.
-- Self-motivated.
-- Excellent communication skills.
-- Research and Proposal skills.
-
----
-
-## Referees
-
-- **John Mwai (Mr.)**  
-  Network Administrator  
-  JKUAT ICT - ISS department  
-  Phone: +254-723-958003
-
-- **Amos Ndeto Munuve (Mr.)**  
-  C.E.O and Founder  
-  Anza Cloud & Nomad Beverages  
-  Phone: +254-714-209995
-
-- **Hezion Kwena (Mr.)**  
-  Head of Security Operations Center  
-  Co-operative Bank of Kenya  
-  Phone: +254-703-590111
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lewkm&show_icons=true&locale=en" alt="lewkm" /></p>
